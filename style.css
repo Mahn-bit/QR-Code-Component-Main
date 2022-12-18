@@ -1,0 +1,48 @@
+body {
+  background-color: #d6e2f0;
+}
+
+main {
+  width: 357px;
+  padding: auto;
+  background-color: #fff;
+  padding: 1rem;
+  box-sizing: border-box;
+  border-radius: 0.8rem;
+  margin: 0 auto;
+}
+
+img {
+  width: auto;
+  max-width: 100%;
+  border-radius: 0.8rem;
+}
+
+section {
+  padding: 0 1rem;
+  text-align: center;
+  font-family: "Outfit", sans-serif;
+}
+
+section h1 {
+  color: #1f3251;
+  font-weight: 700;
+  margin: 2rem 0;
+  font-size: 1.5rem;
+}
+
+section p {
+  color: #7b879d;
+  text-align: center;
+  font-weight: 400;
+  margin: 2rem 0;
+}
+
+.attribution {
+  font-size: 1.1rem;
+  text-align: center;
+  margin-top: 1.6rem;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
